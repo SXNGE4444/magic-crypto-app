@@ -46,7 +46,7 @@ git commit -m "Initial commit: Magic crypto transfer app"
 
 Copy the commands from GitHub (they'll look like this):
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/magic-crypto-app.git
+git remote add origin https://github.com/SXNGE4444/magic-crypto-app.git
 git branch -M main
 git push -u origin main
 ```
